@@ -1,0 +1,23 @@
+body{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(224, 228, 219);
+    h1{
+        color: rgba(186, 65, 65, 0.874);
+    }
+    h2{
+       color: rgb(208, 79, 10);
+    }
+    .username{
+       color: rgba(211, 173, 37, 0.999);
+    }
+    .email{
+        color: rgb(221, 171, 19);
+    }
+    .addre{
+        color: rgb(182, 126, 51);
+    };
+    .phone{color: rgb(152, 109, 18);};
+    .website{color: rgb(177, 131, 14);}
+
+}/*  */
